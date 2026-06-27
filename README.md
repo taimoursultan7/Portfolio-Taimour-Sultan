@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built using HTML, CSS, and Ja
 
 ## 👨‍💻 About
 
-This portfolio belongs to Taimour Sultan, a Software Engineering student and Web Developer. The website showcases personal information, skills, education, experience, projects, blog section, and contact details. :contentReference[oaicite:0]{index=0}
+This portfolio belongs to Taimour Sultan, a Software Engineering student and Web Developer. The website showcases personal information, skills, education, experience, projects, blog section, and contact details. 
 
 ## 🚀 Features
 
@@ -31,7 +31,7 @@ The project uses JavaScript for:
 - Portfolio Filtering
 - Modal Popups
 - Contact Form Validation
-- Page Navigation :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+- Page Navigation.
 
 ## 📂 Project Structure
 
@@ -46,18 +46,17 @@ portfolio/
 
 ### About
 
-Personal introduction and career goals. :contentReference[oaicite:4]{index=4}
+Personal introduction and career goals. 
 
 ### Resume
 
-Education and professional experience. :contentReference[oaicite:5]{index=5}
-
+Education and professional experience. 
 ### Skills
 
 - Web Development
 - Backend Development
 - Web Design
-- Digital Marketing :contentReference[oaicite:6]{index=6}
+- Digital Marketing 
 
 ### Portfolio
 
@@ -67,7 +66,7 @@ Displays projects categorized by:
 - Backend Development
 - Web Design
 - Blog
-- Digital Marketing :contentReference[oaicite:7]{index=7}
+- Digital Marketing 
 
 ## ⚙️ Installation
 
