@@ -79,7 +79,7 @@ Displays projects categorized by:
 
 Email: taimourk101@gmail.com  
 Phone: +92 349 0799233  
-Location: Lahore, Pakistan :contentReference[oaicite:8]{index=8} :contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}
+Location: Lahore, Pakistan 
 
 ## 📜 License
 
